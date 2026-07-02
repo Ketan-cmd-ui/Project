@@ -1,0 +1,52 @@
+{
+  "student": [
+    {
+      "id": "1",
+      "name": "koli"
+    },
+    {
+      "name": "scott",
+      "location": "pune",
+      "id": "qAsr9sESrOs"
+    },
+    {
+      "id": "9N5_cZRDXlM",
+      "name": "loku"
+    },
+    {
+      "id": "adZS6lCnjn8",
+      "name": "koli"
+    },
+    {
+      "id": "tlEifIKOjUo"
+    },
+    {
+      "student": [
+        {
+          "id": 1,
+          "name": "koli"
+        },
+        {
+          "name": "scott",
+          "location": "pune",
+          "id": "qAsr9sESrOs"
+        },
+        {
+          "id": "9N5_cZRDXlM",
+          "name": "loku"
+        },
+        {
+          "id": "adZS6lCnjn8",
+          "name": "koli"
+        },
+        {
+          "id": "tlEifIKOjUo",
+          "name": "joshi"
+        }
+      ],
+      "$schema": "./node_modules/json-server/schema.json",
+      "id": "WtX_DoOnbgg"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
