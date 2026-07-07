@@ -1,5 +1,5 @@
 /*complile time plolymorphism using method overloading */
-class A
+class S
 {
     public String show(String name)
     {
@@ -12,7 +12,7 @@ class A
 }
 public class Polymorphism {
     public static void main(String[] args) {
-        A obj = new A();
+        S obj = new S();
         System.out.println(obj.show("ketan"));
         System.out.println(obj.show("ketan", "   wadia"));
     }
